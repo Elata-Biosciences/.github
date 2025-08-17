@@ -1,41 +1,44 @@
-# Elata Biosciences
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://framerusercontent.com/images/3BsOUcEmBOw7YJVrOZq4OGs.png">
+  <img alt="elata bio logo" src="https://framerusercontent.com/images/3BsOUcEmBOw7YJVrOZq4OGs.png" width="auto" height="80">
+</picture>
 
-**Elata Biosciences** is a decentralized research and engineering collective dedicated to accelerating breakthroughs in **precision psychiatry** and **computational neuroscience**. We operate at the intersection of **open-source bioengineering**, **decentralized science (DeSci)**, and **cryptographic privacy technologies**. Our mission is to empower researchers, clinicians, and citizens with new tools to understand, measure, and improve mental health.
+[Elata](https://www.elata.bio/) is a decentralized research and engineering collective dedicated to accelerating breakthroughs in precision psychiatry and computational neuroscience. We operate at the intersection of open-source neural and biomedical engineering, decentralized science, and cryptographic privacy technologies. Elata's mission is to power the entire ecosystem end-to-end - comprising researchers, clinicians, and citizens - with enhanced capabilities for understanding, measuring, and ultimately improving the way conditions are treated.
 
-## 🔬 Our Focus Areas
+## Focus Areas
 
-* **Precision Psychiatry**
-  We support research and innovation aimed at tailoring mental health treatments using biomarkers, neuroimaging, and machine learning.
+* **Quantitative and Computational Psychiatry:**
+  The overarching goal of Elata is to support deeply innovative R&D aimed at tailoring mental health treatments using biomarkers, neuroimaging, and machine learning.
 
-* **Open Neurotechnology**
-  We develop affordable, privacy-respecting tools like the [**Elata OpenEEG**](https://github.com/Elata-Biosciences/elata-eeg) to enable decentralized data collection and mental health diagnostics.
+* **Open Neurotechnology:**
+  Elata develops affordable, privacy-respecting tools like the [Elata Open EEG](https://github.com/Elata-Biosciences/elata-eeg) to enable decentralized collection of neuroimaging data at massive scale.
 
-* **Decentralized Science (DeSci)**
-  We coordinate funding, community governance, and protocol development through on-chain systems that align incentives between researchers and patients.
+* **Decentralization:**
+   Given the deeply consequential nature of neurotechnology and brain/behavior-based interventions, Elata's governance process is transparent, decentralized and directed by ELTA token holders, making it so anyone can participate. 
 
-* **Privacy & Cryptography**
-  We integrate tools like **zero-knowledge proofs**, **PGP encryption**, and **decentralized storage** to ensure participant confidentiality and data sovereignty.
+* **Privacy and Encryption:**
+  Elata integrates capabilities such as zero-knowledge proofs, PGP encryption, and decentralized storage to guarantee participant confidentiality and data sovereignty spanning different R&D initiatives.
+  
 
-## 🌐 Links and Resources
+## Links
 
-* 🌍 **Website**: [https://elata.bio](https://elata.bio)
-* 📜 **Whitepaper**: [Gitbook](https://elata-biosciences.gitbook.io/elata)
-* 🧠 **EEG Project**: [https://github.com/Elata-Biosciences/elata-eeg](https://github.com/Elata-Biosciences/elata-eeg)
-* 📰 **News Reader/ AI Agent** [https://github.com/Elata-Biosciences/elata-vsm-system-4](https://github.com/Elata-Biosciences/elata-vsm-system-4)
-* ⛓️ **ZORP (ZORP Onchain Research Protocol** [https://github.com/Elata-Biosciences/zorp](https://github.com/Elata-Biosciences/zorp)
-* 🧪 **Token + DeSci Architecture**: [Gitbook](https://elata-biosciences.gitbook.io/elata/tokenomics/the-elta-token)
-* 🧵 **Twitter**: [https://x.com/Elata_Bio](https://x.com/Elata_Bio)
-* 💬 **Discord**: [https://discord.gg/ZfahyzrJrN](https://discord.gg/ZfahyzrJrN)
+* [Website](https://elata.bio)
+* [Documentation](https://elata-biosciences.gitbook.io)
+* [Elata EEG Project](https://github.com/Elata-Biosciences/elata-eeg)
+* [News aggregator for Governance](https://github.com/Elata-Biosciences/elata-vsm-system-4)
+* [ZORP: Onchain Research Protocol](https://github.com/Elata-Biosciences/zorp)
+* [ELTA Token](https://elata-biosciences.gitbook.io/elata/tokenomics/the-elta-token)
+* [X/Twitter](https://x.com/Elata_Bio)
+* [Discord Server](https://discord.gg/ZfahyzrJrN)
 
 
-## 🏗️ Contributing
+## Contributors
 
-We welcome contributions from engineers, researchers, and designers.
+As an open-source project, Elata welcomes contributions from engineers, researchers, and designers.
 
-We especially welcome:
+The highest value-adds for the time being include:
 
-* Rust devs for embedded and signal processing
-* TypeScript/Next.js devs for frontend and dashboard tooling
-* ML researchers with EEG, neuroimaging, or psychiatric modeling experience
-* Biohackers, citizen scientists, and neurotech tinkerers
-
+* Rust developers for embedded and signal processing.
+* TypeScript/Next.js devs for frontend and dashboard tooling.
+* ML researchers with EEG, neuroimaging, or psychiatric modeling experience.
+* Biohackers, citizen scientists, and neurotech tinkerers.
